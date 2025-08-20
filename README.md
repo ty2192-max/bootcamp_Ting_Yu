@@ -42,7 +42,7 @@ Build predictor → Modeling → Trained model & validation
 Put to use → Deployment → Working tool & docs
 Keep current → Maintenance → Monitoring dashboard
 
-###Persona
+### Persona
 Pain：
 1. Spending 45+ minutes on complex applications just to find a hidden risk factor
 2. Pressure to hit weekly targets while keeping defaults under 4%
