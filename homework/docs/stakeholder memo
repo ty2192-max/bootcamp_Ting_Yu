@@ -1,0 +1,18 @@
+# Stakeholder Memo: Loan Approval Risk Tool
+
+**To:** Lending Manager
+**From:** Data Analytics Team
+**Date:** August 20
+**Subject:** New tool to cut losses and boost good approvals
+
+### The Problem
+Our team is spending too much time on manual loan reviews, and we're still seeing too many defaults on approved loans and turning away good customers. This is hitting our profits.
+
+### The Solution
+We're building a simple tool that will give loan officers a risk score for each applicant—like a weather forecast for default. It will flag the riskiest applications instantly, so officers can focus their time on the tough cases.
+
+### What We Need From You
+Your guidance on what "too risky" means. We'll need to define the risk score threshold together once the tool is built.
+
+### What's Next
+We'll start by analyzing our past loan data to find patterns. We'll keep you updated.
