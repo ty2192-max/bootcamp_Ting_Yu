@@ -1,0 +1,16 @@
+### Persona
+Pain：
+1. Spending 45+ minutes on complex applications just to find a hidden risk factor
+2. Pressure to hit weekly targets while keeping defaults under 4%
+3. Getting blamed for “obvious misses” in hindsight during quarterly reviews
+4. Juggling gut feeling with outdated risk rules that miss modern borrower patterns
+
+Key Decisions Can Makes:
+“Approve with conditions” (e.g., require co-signer) vs straight approve/reject
+Whether to escalate to the lending manager for exceptions
+How to explain denials to frustrated applicants fairly and clearly
+
+How the Model Help:
+Gives a clear, data-backed risk score in <30 secs
+Flags non-obvious risks (e.g., rapid recent credit inquiries + high debt-to-income)
+Lets people focus on deep experience on edge cases, not routine screening
